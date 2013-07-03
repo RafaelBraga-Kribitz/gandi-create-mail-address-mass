@@ -7,6 +7,7 @@ usage
 -----
 activate the api in your gandi interface. change APIKEY and domain. 
 your accounts have to be in a csv file (accounts.csv), one line per account. have a look the sample file. 
+just execute the file (accounts.csv has to be in the same folder).
 
 bugs
 ----
